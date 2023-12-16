@@ -1,0 +1,9 @@
+{
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "current",
+  "readableLineLength": false,
+  "showFrontmatter": true,
+  "spellcheck": false,
+  "propertiesInDocument": "source"
+}

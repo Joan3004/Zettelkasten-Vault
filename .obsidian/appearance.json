@@ -1,0 +1,14 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "enabledCssSnippets": [
+    "custom-rainbow-colors",
+    "extended-colorschemes",
+    "dashboard"
+  ],
+  "interfaceFontFamily": "Overpass",
+  "textFontFamily": "Rubik",
+  "monospaceFontFamily": "Noto Serif",
+  "baseFontSize": 18
+}
